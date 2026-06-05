@@ -2,6 +2,9 @@
 
 This repository contains the embedded C firmware and hardware simulation for a comprehensive smart thermostat system. The project integrates a secure PIN-based access control mechanism, real-time temperature monitoring, serial telemetry, and a hardware-level emergency override using an **ATmega32** microcontroller.
 
+<img width="1096" height="557" alt="smarthome" src="https://github.com/user-attachments/assets/2d5610f8-6182-45c4-9ff8-e839e524bfb5" />
+
+
 ## Core Features
 
 * **Authentication:** System access requires a 4-digit PIN input via a matrix keypad before granting access to temperature controls.
